@@ -1,6 +1,6 @@
 ## Amazon Managed Grafana Public Roadmap
 
-This is the public roadmap for [Amazon Managed Grafanas](https://aws.amazon.com/grafana/). We share information here about what we are working on and equally, you can use this repo to provide feedback and suggest features.
+This is the public roadmap for [Amazon Managed Grafana](https://aws.amazon.com/grafana/). We share information here about what we are working on and equally, you can use this repo to provide feedback and suggest features.
 
 [Go to the roadmap now »](https://github.com/aws/amazon-managed-grafana-roadmap/issues)
 
